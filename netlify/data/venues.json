@@ -1,0 +1,184 @@
+[
+ {
+  "slug": "southend-barns",
+  "name": "Southend Barns",
+  "town": "Donnington, Chichester",
+  "postcode": "PO20 7PS",
+  "source": "https://southendbarns.co.uk/wp-content/uploads/2026/03/SEB-Collections-202728-FINAL-1.pdf"
+ },
+ {
+  "slug": "haylands-barn",
+  "name": "Haylands Barn",
+  "town": "Graffham, near Petworth",
+  "postcode": "GU28 0NU",
+  "source": "https://www.haylandsbarn.co.uk/"
+ },
+ {
+  "slug": "gote-barn",
+  "name": "Gote Barn",
+  "town": "Ringmer, near Lewes",
+  "postcode": "BN8 5HX",
+  "source": "https://www.gotebarn.co.uk/"
+ },
+ {
+  "slug": "bignor-park",
+  "name": "Bignor Park",
+  "town": "Pulborough",
+  "postcode": "RH20 1HG",
+  "source": "https://www.bignorpark.co.uk/weddings"
+ },
+ {
+  "slug": "buxted-park",
+  "name": "Buxted Park",
+  "town": "Buxted, near Uckfield",
+  "postcode": "TN22 4AY",
+  "source": "https://www.handpickedhotels.co.uk/buxtedpark/weddings"
+ },
+ {
+  "slug": "cowdray",
+  "name": "Cowdray",
+  "town": "Midhurst",
+  "postcode": "",
+  "source": "https://www.cowdray.co.uk/weddings"
+ },
+ {
+  "slug": "leonardslee-gardens-house",
+  "name": "Leonardslee Gardens House",
+  "town": "Lower Beeding, near Horsham",
+  "postcode": "",
+  "source": "https://www.leonardsleegardens.co.uk/s/Leonardslee_Gardens_House_Wedding_Brochure.pdf"
+ },
+ {
+  "slug": "bolney-wine-estate",
+  "name": "Bolney Wine Estate",
+  "town": "Bolney, near Haywards Heath",
+  "postcode": "",
+  "source": "https://bolneywineestate.com/weddings/"
+ },
+ {
+  "slug": "kingscote-estate",
+  "name": "Kingscote Estate",
+  "town": "near East Grinstead",
+  "postcode": "",
+  "source": "https://www.kingscoteestate.com/weddings"
+ },
+ {
+  "slug": "rathfinny-wine-estate",
+  "name": "Rathfinny Wine Estate",
+  "town": "Alfriston",
+  "postcode": "",
+  "source": "https://rathfinnyestate.com/rathfinny-events/weddings/"
+ },
+ {
+  "slug": "michelham-priory",
+  "name": "Michelham Priory",
+  "town": "Upper Dicker, near Hailsham",
+  "postcode": "",
+  "source": "https://sussexpast.co.uk/media/k4bjbkax/michelham-priory-weddings-brochure.pdf"
+ },
+ {
+  "slug": "herstmonceux-castle",
+  "name": "Herstmonceux Castle",
+  "town": "near Hailsham",
+  "postcode": "BN27 1RN",
+  "source": "https://www.herstmonceux-castle.com/weddings"
+ },
+ {
+  "slug": "harbour-hotel-brighton",
+  "name": "Harbour Hotel Brighton",
+  "town": "Brighton seafront",
+  "postcode": "",
+  "source": "https://www.harbourhotels.co.uk/our-hotels/sussex/harbour-hotel-brighton/offers-events/dream-day-from-2000"
+ },
+ {
+  "slug": "devils-dyke-farm",
+  "name": "Devil's Dyke Farm",
+  "town": "on the Downs above Brighton",
+  "postcode": "",
+  "source": "https://www.devilsdykefarm.co.uk/"
+ },
+ {
+  "slug": "plumpton-racecourse",
+  "name": "Plumpton Racecourse",
+  "town": "Plumpton, near Lewes",
+  "postcode": "",
+  "source": "https://www.plumptonracecourse.co.uk/weddings"
+ },
+ {
+  "slug": "amberley-castle",
+  "name": "Amberley Castle",
+  "town": "Amberley, near Arundel",
+  "postcode": "",
+  "source": "https://www.amberleycastle.co.uk/weddings"
+ },
+ {
+  "slug": "wadhurst-castle",
+  "name": "Wadhurst Castle",
+  "town": "Wadhurst",
+  "postcode": "",
+  "source": "https://www.wadhurstcastle.co.uk/weddings"
+ },
+ {
+  "slug": "firle-place",
+  "name": "Firle Place",
+  "town": "Firle, near Lewes",
+  "postcode": "BN8 6LP",
+  "source": "https://www.firle.com/weddings-events/"
+ },
+ {
+  "slug": "pelham-house",
+  "name": "Pelham House",
+  "town": "Lewes",
+  "postcode": "BN7 1UW",
+  "source": "https://www.pelhamhouse.com/weddings"
+ },
+ {
+  "slug": "horsted-place",
+  "name": "Horsted Place",
+  "town": "Little Horsted, near Uckfield",
+  "postcode": "TN22 5TS",
+  "source": "https://www.horstedplace.co.uk/weddings"
+ },
+ {
+  "slug": "east-sussex-national",
+  "name": "East Sussex National",
+  "town": "Little Horsted, near Uckfield",
+  "postcode": "TN22 5ES",
+  "source": "https://www.eastsussexnational.co.uk/weddings"
+ },
+ {
+  "slug": "south-lodge",
+  "name": "South Lodge",
+  "town": "Lower Beeding, near Horsham",
+  "postcode": "RH13 6PS",
+  "source": "https://www.exclusive.co.uk/south-lodge/weddings/"
+ },
+ {
+  "slug": "long-furlong-barn",
+  "name": "Long Furlong Barn",
+  "town": "Clapham, near Worthing",
+  "postcode": "BN13 3XN",
+  "source": "https://www.longfurlongbarn.co.uk/"
+ },
+ {
+  "slug": "fitzleroi-barn",
+  "name": "Fitzleroi Barn",
+  "town": "Fittleworth, near Pulborough",
+  "postcode": "",
+  "source": "https://www.fitzleroibarn.co.uk/"
+ },
+ {
+  "slug": "southlands-barn",
+  "name": "Southlands Barn",
+  "town": "near Pulborough",
+  "postcode": "",
+  "source": "https://www.southlandsbarn.co.uk/"
+ },
+ {
+  "slug": "selden-barns",
+  "name": "Selden Barns",
+  "town": "Patching, between Worthing and Arundel",
+  "postcode": "BN13 3UL",
+  "source": "https://www.seldenbarns.co.uk/"
+ }
+]
